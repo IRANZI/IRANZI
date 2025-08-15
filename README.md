@@ -74,7 +74,7 @@
 
 ## 📬 Get in Touch
 
-📧 **Email:** iradianah5@example.com  
-🌐 **GitHub:** [github.com/dianah-iranzi](https://github.com/IRANZI)
+📧 **Email:** iradianah5@gmail.com  
+🌐 **GitHub:** [github.com/IRANZI](https://github.com/IRANZI)
 
 </div>
